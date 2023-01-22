@@ -1,0 +1,5 @@
+Никак не удаётся выполнить задачу из контеста Тинькофф - Java - Киберфорум
+https://www.cyberforum.ru/java-beginners/thread3066164.html
+
+Гамильтонов цикл | Теория графов
+https://ru.hexlet.io/courses/graphs/lessons/hamiltonian/theory_unit
